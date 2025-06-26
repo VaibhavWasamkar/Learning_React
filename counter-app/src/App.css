@@ -1,0 +1,33 @@
+.app {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+.buttons button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.buttons button:nth-child(1) {
+  background-color: #4caf50;
+  color: white;
+}
+
+.buttons button:nth-child(2) {
+  background-color: #f44336;
+  color: white;
+}
+
+.buttons button:nth-child(3) {
+  background-color: #2196f3;
+  color: white;
+}
